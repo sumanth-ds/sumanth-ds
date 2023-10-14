@@ -161,10 +161,13 @@ Feel free to explore these projects and provide feedback. If you have any questi
 
 ## 📬 Contact
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/psumanth)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/psumanth)
 - Email: sumanth3633@gmail.com
-- Portfolio Website: [Your Portfolio Website](https://sumanth-ds.github.io/sumanth/)
-- Twitter: [@YourTwitterHandle](https://x.com/SUMANTH161803?t=Rr_I971g9ezpdsiv6O1a-w&s=09)
+- Portfolio Website: [All About Me](https://sumanth-ds.github.io/sumanth/)
+- Twitter: [Twitter Profile](https://x.com/SUMANTH161803?t=Rr_I971g9ezpdsiv6O1a-w&s=09)
+
+
+
 Thanks for visiting my portfolio! 📈📉📊
 
 
