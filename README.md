@@ -25,6 +25,95 @@ Feel free to explore my projects below to see these skills in action!
 
 Here are some of my notable data science projects:
 
+## Internship Projects Under guidance of CodSoft. 
+
+ 1. Title: [Fraud Detection Project Summary](https://github.com/sumanth-ds/CODSOFT/tree/b39c4f8d720b10715a56894d8bf19f4c77663885/CODSOFT%20Task-5%20(Credit%20Card%20Fraud%20Detection))
+1. Objective:
+   The Fraud Detection project at CodSoft aimed to develop a precise machine learning model for identifying fraudulent financial transactions, enhancing security measures.
+
+2. Approach:
+   Collected transaction data, preprocessed it by addressing imbalances, and engineered features. Explored anomaly detection models, choosing the one with optimal precision and recall.
+
+3. Results:
+   The final model demonstrated high accuracy in detecting fraudulent transactions while minimizing false positives.
+
+4. Challenges:
+   Overcame imbalanced datasets and dynamic fraud patterns through strategic sampling and continuous monitoring.
+
+5. Conclusion:
+   The Fraud Detection project successfully provided a reliable solution for businesses to detect and mitigate the impact of fraudulent activities.
+
+6. Acknowledgments:
+   Thanks to the CodSoft team for their guidance and support throughout the internship, contributing to the project's success. 
+#
+
+
+2. Project Title: [Sales Prediction Project Summary](https://github.com/sumanth-ds/CODSOFT/tree/b39c4f8d720b10715a56894d8bf19f4c77663885/CODSOFT%20Task-4%20(Sales%20Prediction))
+
+
+Objective: Develop a sales prediction model for better inventory management and decision-making.
+
+Steps:
+1. Data Collection and Exploration: Gathered historical sales data, performed exploratory analysis to identify patterns.
+  
+2. Data Preprocessing: Handled missing values, encoded variables, and applied time-specific preprocessing.
+
+3. Feature Engineering: Extracted relevant features to enhance predictive performance, considering temporal patterns.
+
+4. Model Selection: Considered ARIMA, SARIMA, Random Forest, and Gradient Boosting. Selected based on MAE and RMSE metrics.
+
+5. Model Training and Evaluation: Trained on a subset, rigorously cross-validated for robust performance.
+
+6. Hyperparameter Tuning: Optimized model performance using grid/random search for hyperparameter selection.
+
+7. Results: Achieved accurate sales predictions, demonstrated through low MAE and RMSE values.
+
+8. Challenges: Addressed challenges like seasonality and external factors through advanced time series analysis.
+
+9. Conclusion: Successful project completion; the model provides businesses with an effective tool for sales forecasting.
+
+10. Acknowledgments: Thanks to CodSoft for guidance and support throughout the internship.
+
+
+#
+
+3. Project Title: [Titanic Survival Prediction](https://github.com/sumanth-ds/CODSOFT/tree/b39c4f8d720b10715a56894d8bf19f4c77663885/CODSOFT%20Task-1%20(Titanic_survived))
+
+
+Objective: Develop a machine learning model to predict passenger survival on the Titanic.
+
+Process:
+
+1. Data Handling:
+   - Collected and explored Titanic dataset.
+   - Conducted data preprocessing, including handling missing values and feature engineering.
+
+2. Modeling:
+   - Explored various algorithms: logistic regression, decision trees, random forests, and support vector machines.
+   - Selected model based on cross-validation performance.
+
+3. Training and Evaluation:
+   - Trained the model on a portion of the dataset.
+   - Evaluated performance using metrics like accuracy, precision, recall, and F1 score.
+
+4. Optimization:
+   - Tuned hyperparameters using grid search and random search.
+
+5. Results:
+   - Achieved satisfactory model performance with high accuracy.
+   - Visualized feature importance for interpretation.
+
+6. Challenges:
+   - Addressed imbalanced data and missing values.
+
+7. Conclusion:
+   - Successfully developed a model for predicting Titanic passenger survival.
+   - Acknowledgments to CodSoft for guidance and support.
+
+
+## Personal Projects.
+
+
 1. **[Pizza Sales Analytics ](https://github.com/suman98765/pizza_sales.git)** 
 
 Overview:
