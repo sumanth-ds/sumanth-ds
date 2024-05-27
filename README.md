@@ -20,7 +20,7 @@ Welcome to my Data Science GitHub repository! 👋 I'm P SUMANTH REDDY, a passio
 
 Feel free to explore my projects below to see these skills in action!
 
-
+<!--
 ## 📂 Projects
 
 Here are some of my notable data science projects:
@@ -110,6 +110,7 @@ Process:
    - Successfully developed a model for predicting Titanic passenger survival.
    - Acknowledgments to CodSoft for guidance and support.
 
+-->
 
 ## Personal Projects.
 
@@ -252,10 +253,10 @@ Feel free to explore these projects and provide feedback. If you have any questi
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/psumanth)
 - Email: sumanth3633@gmail.com
-- Portfolio Website: [All About Me](https://sumanth-ds.github.io/sumanth/)
+<!-- - Portfolio Website: [All About Me](https://sumanth-ds.github.io/sumanth/)
 - Twitter: [Twitter Profile](https://x.com/SUMANTH161803?t=Rr_I971g9ezpdsiv6O1a-w&s=09)
 
-
+-->
 
 Thanks for visiting my portfolio! 📈📉📊
 
