@@ -3,7 +3,7 @@
 # 📊 Data Science Portfolio
 ![potfolio](https://github.com/PRINCESUMANTH/princesumanth/assets/52598407/d1901313-86ab-4007-b27d-67ed2724fc6e)
 
-
+<!--
 Welcome to my Data Science GitHub repository! 👋 I'm P SUMANTH REDDY, a passionate data scientist with a knack for turning data into actionable insights.
 
 ## 🚀 Skills
@@ -18,9 +18,14 @@ Welcome to my Data Science GitHub repository! 👋 I'm P SUMANTH REDDY, a passio
 - **Cloud Computing**: Familiar with AWS and Google Cloud for deploying data science projects.
 - **Database Management**: [SQL](https://www.w3schools.com/sql/), [MongoDB](https://www.mongodb.com/)
 
+-->
+<!--
+
+
 Feel free to explore my projects below to see these skills in action!
 
-<!--
+
+
 ## 📂 Projects
 
 Here are some of my notable data science projects:
@@ -111,7 +116,7 @@ Process:
    - Acknowledgments to CodSoft for guidance and support.
 
 -->
-
+<!--
 ## Personal Projects.
 
 
@@ -245,9 +250,9 @@ The Employee Attendance Analysis project using Power BI will equip the company w
 
 
 ![Project Thumbnail](https://github.com/suman98765/Employee-attendance-analysis/assets/78702359/a764105f-2fba-4518-b619-825d172f4c4a)
+-->
 
-
-Feel free to explore these projects and provide feedback. If you have any questions or would like to collaborate, don't hesitate to reach out!
+Feel free to explore the projects and provide feedback. If you have any questions or would like to collaborate, don't hesitate to reach out!
 
 ## 📬 Contact
 
