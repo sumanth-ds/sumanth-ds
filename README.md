@@ -258,7 +258,9 @@ Feel free to explore the projects and provide feedback. If you have any question
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/psumanth)
 - Email: sumanth3633@gmail.com
-<!-- - Portfolio Website: [All About Me](https://sumanth-ds.github.io/sumanth/)
+- Portfolio Website: [All About Me](https://sumanth-ds.github.io/profile/)
+
+<!--
 - Twitter: [Twitter Profile](https://x.com/SUMANTH161803?t=Rr_I971g9ezpdsiv6O1a-w&s=09)
 
 -->
