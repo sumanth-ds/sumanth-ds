@@ -26,10 +26,34 @@ Duration: July,2024 - Aug, 2024.
 3. [Created an E-Commerce Recommendation System for personalized suggestions.](https://github.com/sumanth-ds/Next-24-Technology/tree/main/Recommandation%20System)
 
 
+### Machine Learning Projects:<br>
+1. Supervised Learning.
+   1. [Classification.](https://github.com/sumanth-ds/Supervised-ml-projects/tree/main/Classification)
+      1. [Attrition Prediction.](https://github.com/sumanth-ds/Supervised-ml-projects/tree/main/Classification/Attrition_prediction)
+      2. [Churn Dataset.](https://github.com/sumanth-ds/Supervised-ml-projects/tree/main/Classification/Chrum%20Dataset)
+      3. [Diabetes.](https://github.com/sumanth-ds/Supervised-ml-projects/tree/main/Classification/Diabetes)
+      4. [Hotel-Cancellation.](https://github.com/sumanth-ds/Supervised-ml-projects/tree/main/Classification/Hotel-Cancellation)
+      5. [Loan_Approval_prediction.](https://github.com/sumanth-ds/Supervised-ml-projects/tree/main/Classification/Loan_Approval_prediction)
+      6. [Credit Risk.](https://github.com/sumanth-ds/Supervised-ml-projects/tree/main/Classification/Navie%20Baise%20Algorithm)
+      7. [Wine_Quality_prediction.](https://github.com/sumanth-ds/Supervised-ml-projects/tree/main/Classification/Wine_Quality_prediction)
+      8. [penguins.](https://github.com/sumanth-ds/Supervised-ml-projects/tree/main/Classification/penguins)
+    
+   2. [Regression.](https://github.com/sumanth-ds/Supervised-ml-projects/tree/main/Regression)
+      1. [50_startups.](https://github.com/sumanth-ds/Supervised-ml-projects/tree/main/Regression/50_startups)
+      2. [BigData Market By Vidya Analysis.](https://github.com/sumanth-ds/Supervised-ml-projects/tree/main/Regression/BigData%20Market%20By%20Vidya%20Analysis)
+      3. [Car_Price_Prediction.](https://github.com/sumanth-ds/Supervised-ml-projects/tree/main/Regression/Car_Price_Prediction)
+      4. [Davis Monthan Sample Data.](https://github.com/sumanth-ds/Supervised-ml-projects/tree/main/Regression/Davis%20Monthan%20Sample%20Data)
+      5. [Energy_Star_Score.](https://github.com/sumanth-ds/Supervised-ml-projects/tree/main/Regression/Energy_Water)
+      6. [calories.](https://github.com/sumanth-ds/Supervised-ml-projects/tree/main/Regression/calories)
+      7. [finace.](https://github.com/sumanth-ds/Supervised-ml-projects/tree/main/Regression/finace)
+         
+2. Unsupervised learning.
+    1. programs.
 
 
-
-
+ 3. Data Analytics.
+    1. [Pizza Sales](https://github.com/sumanth-ds/pizza_sales)
+    2. [Employee Attendance](https://github.com/sumanth-ds/Employee-attendance-analysis)
 
 
 
