@@ -17,6 +17,9 @@
 •	Natural Language Processing: Text analysis, language models, and NLP applications.<br>
 •	Django: Web development, project pipeline management.<br>
 
+
+<!--
+
 ### Internship 
 As an intern at Next 24 Technologies, I:<br>
 Duration: July,2024 - Aug, 2024.
@@ -57,7 +60,7 @@ Duration: July,2024 - Aug, 2024.
 
 
 
-
+-->
 
 
 
