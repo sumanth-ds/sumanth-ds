@@ -3,6 +3,40 @@
 # 📊 Data Science Portfolio
 ![potfolio](https://github.com/PRINCESUMANTH/princesumanth/assets/52598407/d1901313-86ab-4007-b27d-67ed2724fc6e)
 
+
+### Summary
+•	I am actively seeking entry-level positions in Data Science (DS), Machine Learning (ML), Data Analytics (DA), Deep Learning (DL), and Natural Language Processing (NLP). <br>
+•	I have 1 year of practical experience in Data Science and have built several real-time projects.<br>
+•	My work has resulted in an average 10% increase in sales, a 20% reduction in errors, and an average accuracy of 80%. <br>
+•	I have also developed end-to-end solutions for various problems using pipelines and Django.<br>
+### Skills:<br>
+•	Data Science: Data analysis, statistical modeling, and project development.<br>
+•	Machine Learning: Model building, training, and evaluation.<br>
+•	Data Analytics: Data interpretation, trend analysis, and reporting.<br>
+•	Deep Learning: Neural networks, complex pattern recognition.<br>
+•	Natural Language Processing: Text analysis, language models, and NLP applications.<br>
+•	Django: Web development, project pipeline management.<br>
+
+### Internship 
+As an intern at Next 24 Technologies, I:<br>
+Duration: July,2024 - Aug, 2024.
+
+1. [Built a Tweet Sentiment Analysis model using NLP.](https://github.com/sumanth-ds/Next-24-Technology/tree/main/sentiment%20analysis)
+2. [Developed a House Price Prediction model with advanced regression.](https://github.com/sumanth-ds/Next-24-Technology/tree/main/House%20Price%20Prediction)
+3. [Created an E-Commerce Recommendation System for personalized suggestions.](https://github.com/sumanth-ds/Next-24-Technology/tree/main/Recommandation%20System)
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 Welcome to my Data Science GitHub repository! 👋 I'm P SUMANTH REDDY, a passionate data scientist with a knack for turning data into actionable insights.
 
