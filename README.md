@@ -18,7 +18,7 @@
 •	Django: Web development, project pipeline management.<br>
 
 
-<!--
+### GenAI Project [Multiple-ChatBot](https://sumanth-ai-chatbot.streamlit.app/)
 
 ### Internship 
 As an intern at Next 24 Technologies, I:<br>
@@ -51,16 +51,65 @@ Duration: July,2024 - Aug, 2024.
       7. [finace.](https://github.com/sumanth-ds/Supervised-ml-projects/tree/main/Regression/finace)
          
 2. Unsupervised learning.
-    1. programs.
+    1. [K_Means Clustering](https://github.com/sumanth-ds/unsupervied-ml-projects/tree/main/K-Means%20cluster).
+    2. [Association Rule mining](https://github.com/sumanth-ds/unsupervied-ml-projects/tree/main/association%20rule%20maining)
 
 
- 3. Data Analytics.
-    1. [Pizza Sales](https://github.com/sumanth-ds/pizza_sales)
-    2. [Employee Attendance](https://github.com/sumanth-ds/Employee-attendance-analysis)
+### Time Series: <br>
+1. [Monthly Sales](https://github.com/sumanth-ds/Time-Series/tree/main/Monthly%20sales)
+2. [Netflix_share_price](https://github.com/sumanth-ds/Time-Series/tree/main/Netflix_share_price)
+3. [Super Market](https://github.com/sumanth-ds/Time-Series/tree/main/Super_Market_Store)
+4. [Tata_Motos_Share_Price](https://github.com/sumanth-ds/Time-Series/tree/main/Tata_Motos)
+5. [Sales_forecasting](https://github.com/sumanth-ds/Time-Series/tree/main/sales_forecasting)
+
+### DNN: <br>
+
+1. [Amazon_Food_Review](https://github.com/sumanth-ds/DNN/tree/main/Amazon_Food_Review)
+2. [DNN Diabetes](https://github.com/sumanth-ds/DNN/tree/main/DNN%20Diabetes)
+3. [MLP(MultiLayer_perceptron) Housing_price](https://github.com/sumanth-ds/DNN/tree/main/MLP(MultiLayer_perceptron)%20Housing_price)
+4. [Mnist_Dataset](https://github.com/sumanth-ds/DNN/tree/main/Mnist_Dataset)
+5. [DNN Practices](https://github.com/sumanth-ds/DNN/tree/main/DNN%20Practices)
+
+
+### CNN: <br>
+1. [Pre Trained Model AlexNet](https://github.com/sumanth-ds/CNN/tree/main/Pre%20Trained%20Model%20AlexNet)
+2. [MRI_Detection](https://github.com/sumanth-ds/CNN/tree/main/MRI_Detection)
+3. [Data Augmentation](https://github.com/sumanth-ds/CNN/tree/main/Data%20Augmentation)
+
+### Computer Vision: <br>
+1. [YOLO](https://github.com/sumanth-ds/Computer-VIsion/tree/main/YOLO)
+2. [Count Vehicles](https://github.com/sumanth-ds/Computer-VIsion/tree/main/Count%20Vehicles)
+3. [Computer_vision_practise](https://github.com/sumanth-ds/Computer-VIsion/tree/main/Computer_vision_practise)
+
+### NLP Practies: <br>
+1. [NLP](https://github.com/sumanth-ds/NLP/tree/main/NLP)
+
+### RNN Practies: <br>
+1. [RNN](https://github.com/sumanth-ds/NLP/tree/main/RNN)
+
+### Transformers: <br> 
+
+1. [LLAMA 2.7B ChatBot Using Transformers](https://github.com/sumanth-ds/Transformers/tree/main/LLAMA%202.7B%20ChatBot%20Using%20Transformers)
+2. [Q&A ChatBot using Transformers](https://github.com/sumanth-ds/Transformers/tree/main/Q%26A%20ChatBot%20using%20Transformers)
+3. [Searching Engine](https://github.com/sumanth-ds/Transformers/tree/main/Searching%20Engine)
+
+### GenAI Practice: <br>
+
+1. [GEN-AI-Practice](https://github.com/sumanth-ds/GEN-AI-Practice)
+
+### GenAI end to end: <br>
+1. [Multiple-chatBot](https://sumanth-ai-chatbot.streamlit.app/)
+
+### Web Scrabing Practice: <br>
+1. [Web-Scrabing](https://github.com/sumanth-ds/Web-Scrabing)
+
+
+###  Data Analytics: <br>
+1. [Pizza Sales](https://github.com/sumanth-ds/pizza_sales)
+2. [Employee Attendance](https://github.com/sumanth-ds/Employee-attendance-analysis)
 
 
 
--->
 
 
 
@@ -320,6 +369,7 @@ Feel free to explore the projects and provide feedback. If you have any question
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/psumanth)
 - Email: sumanth3633@gmail.com
 - Portfolio Website: [All About Me](https://sumanth-ds.github.io/profile/)
+-  Multiple ChatBots: [Free-ChatBot](https://sumanth-ai-chatbot.streamlit.app/)
 
 <!--
 - Twitter: [Twitter Profile](https://x.com/SUMANTH161803?t=Rr_I971g9ezpdsiv6O1a-w&s=09)
