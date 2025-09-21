@@ -1,5 +1,5 @@
 
-
+<!--
 # 📊 Data Science Portfolio
 ![potfolio](https://github.com/PRINCESUMANTH/princesumanth/assets/52598407/d1901313-86ab-4007-b27d-67ed2724fc6e)
 
@@ -361,7 +361,7 @@ The Employee Attendance Analysis project using Power BI will equip the company w
 
 ![Project Thumbnail](https://github.com/suman98765/Employee-attendance-analysis/assets/78702359/a764105f-2fba-4518-b619-825d172f4c4a)
 -->
-
+<!--
 Feel free to explore the projects and provide feedback. If you have any questions or would like to collaborate, don't hesitate to reach out!
 
 ## 📬 Contact
@@ -370,14 +370,14 @@ Feel free to explore the projects and provide feedback. If you have any question
 - Email: sumanth3633@gmail.com
 - Portfolio Website: [All About Me](https://sumanth-ds.github.io/about-me)
 -  Multiple ChatBots: [Free-ChatBot](https://sumanth-ai-chatbot.streamlit.app/)
-
+-->
 <!--
 - Twitter: [Twitter Profile](https://x.com/SUMANTH161803?t=Rr_I971g9ezpdsiv6O1a-w&s=09)
 
 -->
-
+<!--
 Thanks for visiting my portfolio! 📈📉📊
 
 
 Happy data crunching! 📈🤓
-
+-->
